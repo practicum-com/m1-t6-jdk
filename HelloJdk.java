@@ -2,6 +2,6 @@ public class HelloJdk {
 
     public static void main(String[] args) {
 
-            System.out.println("Ура! Этот код работает!");
+            System.out.println("This code works!");
     }
 }
